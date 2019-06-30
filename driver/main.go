@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/jonbodner/go3hours/s4/my-packages/leftpad"
+
+	"github.com/FlorinTiucraPopa/leftpad"
 )
 
 func main() {
